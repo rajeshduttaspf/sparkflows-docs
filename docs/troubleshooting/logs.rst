@@ -7,7 +7,7 @@ As an Administrator, you can view the logs in Fire Insights.
 
 For more Reference :
 
-https://docs.sparkflows.io/en/latest/operations/logging.html
+https://docs.sparkflows.io/en/latest/operations/logs.html
 
 As an User, you can view the logs while running any workflow as below:
 
